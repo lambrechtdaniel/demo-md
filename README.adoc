@@ -30,9 +30,7 @@ Your ``package.json`` should now contain the MeisterCharts dependency:
 
 [source,json]
 ----
-"dependencies": {
-"@meistercharts/meistercharts": "^1.32.0"
-}
+include::package.json[tags=dependencies]
 ----
 That's all you need to do. Now your project is ready to use MeisterCharts.
 The next step is to implement MeisterCharts in your code.
